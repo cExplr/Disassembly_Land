@@ -1,7 +1,7 @@
-# Disassembly_PE_Files
+# Disassembly Land
 ---
 
-Just a reference to PE Assembly.
+Just a reference to Assembly alongside with sourcr code and/or pseudocode.
 
 So far, I have only added PE files that are being compiled with gcc with source code written in C. 
 
