@@ -55,9 +55,12 @@ End of assembler dump.
 
 ## Pseudocode
 
-Coming soon
-```
-
+```c
+int __cdecl main(int argc, const char **argv, const char **envp)
+{
+  printf("Hello World!\n");
+  return 0;
+}
 ```
 
 ---
